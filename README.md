@@ -19,7 +19,10 @@ This report analyzes bank loan data to evaluate loan applications, funding amoun
 
 ## 📊 Dashboard Previews
 
-![Dashboard Preview](link-to-your-dashboard-preview)  <!-- Replace with actual image link -->
+## 📊 Dashboard Previews
+
+<img src="https://github.com/user-attachments/assets/34f1b256-1eb8-47dd-b7a6-b56c49a5c7ba" alt="Screenshot 1" width="650"/><img src="https://github.com/user-attachments/assets/1ac996e0-3e83-4bb2-aa2b-221d5c5fe921" alt="Screenshot 2" width="650"/> 
+<img src="https://github.com/user-attachments/assets/7a0087b6-f9ea-4148-8be7-2483a15fe1ea" alt="Screenshot 3" width="800"/> 
 
 ## 📂 Project Files
 
