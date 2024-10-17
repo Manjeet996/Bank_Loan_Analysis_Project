@@ -6,16 +6,16 @@ This report analyzes bank loan data to evaluate loan applications, funding amoun
 
 ## 📈 Key Performance Indicators (KPIs)
 
-1. **📋 Total Loan Applications:** [&&&] (Count of loan applications submitted).
-2. **💰 Total Funded Amount:** [&&&] (Sum of all loans disbursed).
-3. **💵 Total Amount Received:** [&&&] (Total payments collected from borrowers).
-4. **📊 Average Interest Rate:** [&&&] (Mean interest rate across all loans).
-5. **📉 Debt-to-Income Ratio (DTI):** [&&&] (Average ratio of borrowers' monthly debt payments to their income).
+1. **📋 Total Loan Applications:** 38576 (Count of loan applications submitted).
+2. **💰 Total Funded Amount:** $435.8M (Sum of all loans disbursed).
+3. **💵 Total Amount Received:** $473.1M (Total payments collected from borrowers).
+4. **📊 Average Interest Rate:** 12.05% (Mean interest rate across all loans).
+5. **📉 Debt-to-Income Ratio (DTI):** 13.33% (Average ratio of borrowers' monthly debt payments to their income).
 
 ## 🔍 Loan Status Analysis
 
-- **✅ Good Loans:** [&&&] (Loans that are fully paid or current).
-- **❌ Bad Loans:** [&&&] (Loans that are charged off).
+- **✅ Good Loans:** 86.2% (Loans that are fully paid or current).
+- **❌ Bad Loans:** 13.8% (Loans that are charged off).
 
 ## 📊 Dashboard Previews
 
